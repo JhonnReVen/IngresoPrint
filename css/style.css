@@ -1,0 +1,36 @@
+
+body{
+    padding: 0px;
+    margin: 0px;
+    background: #fff;
+   
+}
+h4 {
+    
+    margin-bottom: 30px;
+    text-align: center;
+    color:#1F4CA6;
+    
+}
+
+
+.form {
+    
+    position: none;
+    
+
+}
+
+.formulario {
+    background: #fff;
+    
+    padding: 20px 40px;
+    outline: 1px solid #1F4CA6  ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 310px;
+        
+    transform: translate(-50%, -50%);
+
+}
